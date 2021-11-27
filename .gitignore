@@ -55,6 +55,14 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+#FallHack
+Fallhack2021/[Ll]ibrary/
+Fallhack2021/[Tt]emp/
+Fallhack2021/[Oo]bj/
+Fallhack2021/[Bb]uild/
+Fallhack2021/[Bb]uilds/
+Fallhack2021/[Ll]ogs/
+Fallhack2021/[Mm]emoryCaptures/
 # Crashlytics generated file
 crashlytics-build.properties
 
