@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Timer : MonoBehaviour
 {
-    [SerializeField] float LevelTimer = 30f;
+    [SerializeField] float levelTimer = 30f;
     public float fillFraction;
     float timerValue;
 
@@ -24,7 +24,7 @@ public class Timer : MonoBehaviour
 
         if(isAlive){
             if(timerValue > 0){
-                fillFraction = timerValue/timeToComplete;
+                fillFraction = timerValue/levelTimer;
             }else{
                 isAlive = false;
                 timerValue = LevelTimer;
