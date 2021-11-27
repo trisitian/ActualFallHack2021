@@ -27,7 +27,7 @@ public class Timer : MonoBehaviour
                 fillFraction = timerValue/levelTimer;
             }else{
                 isAlive = false;
-                timerValue = LevelTimer;
+                timerValue = levelTimer;
             }
         }else{
             //some death animation
