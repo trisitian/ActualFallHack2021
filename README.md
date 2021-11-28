@@ -8,34 +8,50 @@ Run exe
 
 ### or
 
-Install Unity 2020.3.23f1 or higher.
+Install Unity Hub
+
+Install Unity 2020.3.23f1 or higher in Unity Hub
 
 Clone the repo
 
-In unity hub under the projects tab click Add
+In Unity Hub under the projects tab click Add
 
-find the source directory for all assets and files in your repo labeled FallHack2021
+Find the source directory for all assets and files in the repo labeled FallHack2021
 
-load Unity
+Load through Unity
 
-click build if you want to have a function exe file
+Click build if you want to have an executable
 
-click play button if you just want to run it in the editor with tempPush scene selected
+Otherwise, with tempPush scene selected, click play button if you want to run it in the editor
 
 ## Collaborators
 
 Valerie Kistrin
+
 vkistrin@sfu.ca
+
 https://github.com/
 
+<br />
+
 Parham Khadem
+
 pna27@sfu.ca
+
 https://github.com/MisterQWER
 
+<br />
+
 Don Van
+
 dva1@sfu.ca
+
 https://github.com/dawnoc
 
+<br />
+
 Tristian Labanowich
+
 tal8@sfu.ca
+
 https://github.com/trisitian
