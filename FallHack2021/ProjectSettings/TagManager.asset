@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Boost
+  - Bottom
+  - Top
+  - Bear
   layers:
   - Default
   - TransparentFX

@@ -8,6 +8,7 @@ public class Movement : MonoBehaviour
 
     float horizontal;
     float vertical;
+    public bool hitFinish = false;
 
     public float runSpeed = 10.0f;
     
@@ -29,4 +30,5 @@ public class Movement : MonoBehaviour
     {
         body.velocity = new Vector2(horizontal * runSpeed, vertical * runSpeed);   
     }
+    
 }

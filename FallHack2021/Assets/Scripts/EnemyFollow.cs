@@ -8,6 +8,7 @@ public class EnemyFollow : MonoBehaviour
     public float moveSpeed = 5f;
     private Rigidbody2D rb;
     private Vector2 movement;
+    [SerializeField] Movement c;
 
     // Start is called before the first frame update
     void Start(){
@@ -23,7 +24,10 @@ public class EnemyFollow : MonoBehaviour
         movement = direction;
     }
     private void FixedUpdate() {
-        moveCharacter(movement);
+        if(!c.hitFinish){
+            moveCharacter(movement);
+        }
+
     }
     void moveCharacter(Vector2 direction){
         rb.MovePosition((Vector2)transform.position + (direction * moveSpeed * Time.deltaTime));
