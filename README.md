@@ -30,7 +30,7 @@ Valerie Kistrina
 
 vkistrin@sfu.ca
 
-https://github.com/
+https://github.com/CPSCValeriya
 
 <br />
 
