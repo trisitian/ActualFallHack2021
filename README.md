@@ -26,11 +26,11 @@ Otherwise, with tempPush scene selected, click play button if you want to run it
 
 ## Collaborators
 
-Valerie Kistrin
+Valerie Kistrina
 
 vkistrin@sfu.ca
 
-https://github.com/
+https://github.com/CPSCValeriya
 
 <br />
 
